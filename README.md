@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrumlineBaller!
+- 👋 Hi, I’m Alexander Johnson!
 - 👀 I’m interested in drumming, basketball, Rubik's cubes, gaming, and coding.
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: aj34johnson2021@gmail.com
